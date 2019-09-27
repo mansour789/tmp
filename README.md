@@ -1,6 +1,5 @@
 # Sample Pseudo Code For A Thermostat
 ```
-
 get target_temperature
 target_temperature = 22
 repeat forever,
